@@ -1,0 +1,17 @@
+---
+title: "Arthur Small"
+---
+
+Arthur Small is an economist and data scientist.
+
+![Zoe in the Looney Tunes](images/ZoeLooneyTunes.png){fig-alt="Zoe in the Looney Tunes" fig-align="center"}
+
+![Photo of Arthur Small](DSC_7281bw.jpg)
+
+```{r}
+#| layout-ncol: 2
+#| echo: false
+
+plot(cars)
+plot(pressure)
+```
