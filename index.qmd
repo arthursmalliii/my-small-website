@@ -2,7 +2,7 @@
 title: "Arthur Small"
 ---
 
-Arthur Small is an economist and data scientist.
+Arthur Small is an economist and data scientist. He is fond of Ukrainian T-shirts.
 
 ![Zoe in the Looney Tunes](images/ZoeLooneyTunes.png){fig-alt="Zoe in the Looney Tunes" fig-align="center"}
 
