@@ -1,7 +1,7 @@
 {
-  "hash": "3414216d05b1b384c5404b47f560395d",
+  "hash": "13ff39d8cad263e24743f7b820348172",
   "result": {
-    "markdown": "---\ntitle: \"Arthur Small\"\n---\n\nArthur Small is an economist and data scientist.\n\n![Zoe in the Looney Tunes](images/ZoeLooneyTunes.png){fig-alt=\"Zoe in the Looney Tunes\" fig-align=\"center\"}\n\n![Photo of Arthur Small](images/DSC_7281bw.jpg)\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-2.png){width=672}\n:::\n:::",
+    "markdown": "---\ntitle: \"Arthur Small\"\n---\n\nArthur Small is an economist and data scientist. He is fond of Ukrainian T-shirts.\n\n![Zoe in the Looney Tunes](images/ZoeLooneyTunes.png){fig-alt=\"Zoe in the Looney Tunes\" fig-align=\"center\"}\n\n![Photo of Arthur Small](images/DSC_7281bw.jpg)\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-2.png){width=672}\n:::\n:::",
     "supporting": [
       "index_files"
     ],
